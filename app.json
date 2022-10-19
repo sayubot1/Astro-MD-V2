@@ -1,5 +1,5 @@
 {
-  "name": "Astro-MD V2",
+  "name": "SaYu-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/vihangayt0/Astro-MD-V2",
   "logo": "",
@@ -19,22 +19,22 @@
 "ALIVE_LOGO" :{
     "description" : "alive logo",
     "required" : true,
-  "value" : "https://img.phonandroid.com/2019/05/whatsapp-publicit%C3%A9s-2020.jpg"
+  "value" : "https://telegra.ph/file/8924798a5171d4d94cb4b.jpg"
 },
 "FOOTER" :{
     "description" : "Footer Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "SaYu MaNIKa"
 },
 "OWNER_NAME" :{
     "description" : "Owner Name",
     "required" : true,
-  "value" : "៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️"
+  "value" : "AdZone_ADVERTISING OWNER-RaVIsHKa"
 },
     "OWNER_NUMBER" :{
     "description" : "Owner Number",
     "required" : true,
-  "value" : "+44 7441 466940"
+  "value" : "+94773721711"
 },
     "SONG_DOWN" :{
     "description" : "Song downloading txt",
@@ -69,7 +69,7 @@
                         "CAPTION" :{
     "description" : "yre caption",
     "required" : true,
-  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝚂𝚃𝚁𝙾-𝙼𝙳*"
+  "value" : "*𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 SaYu-MD*"
 },
                         "BUTTON" :{
     "description" : "alive button txt",
